@@ -1,8 +1,7 @@
-![Profile views](https://gpvc.arturio.dev/Fuksmate)
 
 ### Hello 😄
 
-My name is Łukasz. I am a Junior Frontend Developer. If you need a new dev in your team, I'm open to your job offer.
+My name is Łukasz. I am Frontend Developer. If you need a new dev in your team, I'm open to your job offer.
 <br /><br />
 
 📩 If you have any questions or job offer please send me an email: lukaszfuchs@gmail.com
@@ -11,12 +10,14 @@ My name is Łukasz. I am a Junior Frontend Developer. If you need a new dev in y
 
 ### ⚙️ Technology Stack
 
-- HTML
-- CSS
+- TALWIND CSS
 - SCSS
 - Vue
 - Javascript
-- React (during studying)
+- Typescript
+- React
+- Next JS
+- React Native
 
 ### 🧰 Tools and programs which I use
 
